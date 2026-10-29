@@ -1,0 +1,7 @@
+Run_ID,QoS,Machine_ID,Messages_Published
+qos0_run1,0,M1,30
+qos0_run1,0,M2,30
+qos1_run1,1,M1,30
+qos1_run1,1,M2,30
+qos2_run1,2,M1,30
+qos2_run1,2,M2,30

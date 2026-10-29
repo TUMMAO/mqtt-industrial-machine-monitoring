@@ -1,0 +1,4 @@
+Run_ID,QoS,Machines_Recorded,Raw_Deliveries_Received,Unique_Messages_Received,Duplicate_Deliveries,Messages_Published,Delivery_Rate_percent,Average_Latency_ms,Maximum_Latency_ms,Minimum_Latency_ms,Test_Duration_s,Unique_Throughput_msg_per_s,Raw_Throughput_msg_per_s
+qos0_run1,0,2,60,60,0,60,100.0,1.084,4.491,0.384,60,1.0,1.0
+qos1_run1,1,2,60,60,0,60,100.0,0.671,1.721,0.35,60,1.0,1.0
+qos2_run1,2,2,60,60,0,60,100.0,2.109,43.562,0.571,60,1.0,1.0
